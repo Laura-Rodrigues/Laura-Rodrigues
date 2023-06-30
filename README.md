@@ -20,7 +20,7 @@ I'm from Portugal and a student at University of Minho.
 
 - :telescope: I’m experienced with Full stack development skills but my passion is Graphic Computing and Frontend Development.
 
-- :mortar_board: Currently getting my Master's degree in Software Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and now specializing in Artificial Intelligence and Graphic Computing.
+- :mortar_board: Currently getting my Master's degree in Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and now specializing in Artificial Intelligence and Graphic Computing.
 
 - :zap: In my free time, I volunteer at an animal's shelter - Associação de Defesa dos Animais e Ambiente de Vila Verde (ADAAVV).
 
