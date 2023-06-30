@@ -18,7 +18,7 @@
 
 I'm from Portugal and a student at University of Minho.
 
-- :telescope: I’m experienced with Full stack development skills but my passion is Graphic Computing and Web programming.
+- :telescope: I’m experienced with Full stack development skills but my passion is Graphic Computing and Frontend Development.
 
 - :mortar_board: Currently getting my Master's degree in Software Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and now specializing in Artificial Intelligence and Graphic Computing.
 
