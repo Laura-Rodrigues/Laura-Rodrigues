@@ -24,7 +24,7 @@ I'm from Portugal and a student at University of Minho.
 
 - :zap: In my free time, I volunteer at an animal's shelter - Associação de Defesa dos Animais e Ambiente de Vila Verde (ADAAVV).
 
-- :rainbow: I love music, drawing and my dogs. 
+- :rainbow: I love music, drawing and my dogs. Former Sax player :saxophone:
 
 - :envelope_with_arrow: How to reach me: ![Gmail badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white) lauranunesrodrigues@gmail.com
 
